@@ -18,7 +18,10 @@ add those in your system_settings.ini in folder config in your atmosphere folder
 
 [atmosphere]\
 enable_dns_mitm = u8!0x1\
-enable_dns_mitm_debug_log = u8!0x1\
+enable_dns_mitm_debug_log = u8!0x1
+
+
+
 
 
 
