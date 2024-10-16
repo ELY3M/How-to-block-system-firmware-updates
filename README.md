@@ -1,5 +1,6 @@
 # How to block Nintendo System / Firmware updates   
-
+This method will still allow you to use online features.  
+I did testing on all games and online features worked.     
 
 you need to add this in default.txt in the hosts folder in atmosphere folder on your SD card. 
 
