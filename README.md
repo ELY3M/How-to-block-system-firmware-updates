@@ -34,7 +34,7 @@ address=/atumn.hac.lp1.d4c.nintendo.net/1.3.3.7
 then do as root or use sudo before the command.        
 /etc/init.d/dnsmasq restart
 
-
+## credits
 Thanks and Credit to: 
 https://github.com/kinnay/NintendoClients/wiki/Server-List  
 
