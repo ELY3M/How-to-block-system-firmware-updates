@@ -23,7 +23,16 @@ add those in your system_settings.ini in folder config in your atmosphere folder
 enable_dns_mitm = u8!0x1\
 enable_dns_mitm_debug_log = u8!0x1
 
+#better situation  
+I have router with openwrt 
+and I decided to go with dnsmasq     
 
+add those lines to your dnsmasq.conf in /etc  
+address=/sun.hac.lp1.d4c.nintendo.net/1.3.3.7
+address=/atumn.hac.lp1.d4c.nintendo.net/1.3.3.7
+
+then do as root or use sudo before the command.        
+/etc/init.d/dnsmasq restart
 
 
 Thanks and Credit to: 
